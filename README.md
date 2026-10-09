@@ -8,8 +8,6 @@ under MISRA C/C++, work with CAN, and debug down to the hardware.
 Outside of work I build on the STM32 ecosystem, Linux, and RTOS internals, and
 I'm aiming for a career in safety-critical embedded software.
 
-**Looking for:** embedded / firmware internships starting September 2027.
-
 ## Featured projects
 
 | Project | What it is | Stack |
