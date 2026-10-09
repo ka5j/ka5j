@@ -17,7 +17,7 @@ I'm aiming for a career in safety-critical embedded software.
 
 ## Tools
 
-C · C++ ·Python · ARM Cortex-M (STM32) · UART / SPI / I2C · GNU Make · CMake ·
+C · C++ · Python · ARM Cortex-M (STM32) · UART / SPI / I2C · GNU Make · CMake ·
 OpenOCD · Git · GitHub Actions · MATLAB / Simulink
 
 ## Contact
