@@ -2,8 +2,8 @@
 
 Computer Engineering student at Toronto Metropolitan University, currently on
 co-op as a Software Developer on the embedded software team at General Dynamics
-Land Systems-Canada. I develop and test safety-critical software in Embedded C
-under MISRA C, work with CAN, and debug down to the hardware.
+Land Systems-Canada. I develop and test safety-critical software in Embedded C/C++
+under MISRA C/C++, work with CAN, and debug down to the hardware.
 
 Outside of work I build on the STM32 ecosystem, Linux, and RTOS internals, and
 I'm aiming for a career in safety-critical embedded software.
@@ -19,7 +19,7 @@ I'm aiming for a career in safety-critical embedded software.
 
 ## Tools
 
-C · Python · ARM Cortex-M (STM32) · UART / SPI / I2C · GNU Make · CMake ·
+C · C++ ·Python · ARM Cortex-M (STM32) · UART / SPI / I2C · GNU Make · CMake ·
 OpenOCD · Git · GitHub Actions · MATLAB / Simulink
 
 ## Contact
