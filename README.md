@@ -13,7 +13,7 @@ I'm aiming for a career in safety-critical embedded software.
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [stm32_rtos](https://github.com/ka5j/stm32_rtos) | Preemptive RTOS written from scratch, no HAL or CMSIS | C, STM32F446RE Cortex-M4, Make, OpenOCD |
-| [nucleo-stopwatch](https://github.com/ka5j/nucleo-stopwatch) | Interrupt-driven stopwatch with a multiplexed 7-segment display | C, STM32F446RE |
+| [nucleo-stopwatch](https://github.com/ka5j/nucleo-stopwatch) | Interrupt-driven stopwatch with a multiplexed 7-segment display | C, STM32F446RE, STM32CubeIDE |
 
 ## Tools
 
