@@ -12,12 +12,13 @@ I'm aiming for a career in safety-critical embedded software.
 
 | Project | What it is | Stack |
 | --- | --- | --- |
+| [obd2-sniffer](https://github.com/ka5j/obd2-sniffer) | CAN bus sniffer and OBD2 scan tool with a desktop app and CLI. Safety-first design, core logic tested to 100% MC/DC coverage (in progress) | C, STM32F446RE, CAN / OBD2 / ISO-TP, CMake, Python (PySide6), GitHub Actions |
 | [stm32_rtos](https://github.com/ka5j/stm32_rtos) | Preemptive RTOS written from scratch, no HAL or CMSIS | C, STM32F446RE Cortex-M4, Make, OpenOCD |
 | [nucleo-stopwatch](https://github.com/ka5j/nucleo-stopwatch) | Interrupt-driven stopwatch with a multiplexed 7-segment display | C, STM32F446RE, STM32CubeIDE |
 
 ## Tools
 
-C · C++ · Python · ARM Cortex-M (STM32) · UART / SPI / I2C · GNU Make · CMake ·
+C · C++ · Python · ARM Cortex-M (STM32) · CAN / UART / SPI / I2C · GNU Make · CMake ·
 OpenOCD · Git · GitHub Actions · MATLAB / Simulink
 
 ## Contact
